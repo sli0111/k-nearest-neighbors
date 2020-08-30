@@ -15,4 +15,4 @@ Syntax highlighted code block
 
 ### How does KNN work?
 
-$$ L^n(x_1, x_2) = \sqrt $$
+$$ L^n(x_1, x_2) = \sqrt(4) $$
