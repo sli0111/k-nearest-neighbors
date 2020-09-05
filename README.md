@@ -7,8 +7,6 @@ August 30, 2020
 * What is KNN?
 * How does KNN work?
 
-```markdown
-Syntax highlighted code block
 
 ### Introduction - why do you want to learn it?
 
