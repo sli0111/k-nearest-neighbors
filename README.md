@@ -51,3 +51,6 @@ Another type of distance metric is cosine similarity.
 ### Cross validation
 
 ### Write our own KNN
+
+### References
+https://sli0111.github.io/k-nearest-neighbors/
