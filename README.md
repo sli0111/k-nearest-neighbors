@@ -29,7 +29,7 @@ For a 2-dimensional dataset, X = (X1, X2) the distance metric would be a line:
 
 In general the distance metric is called the L-norm and is written as:
 
-$$ L^n(x_1, x_2) = \sqrt(4) $$
+$$ L^n $$
 
 When n=2, the L-norm is when we have two features X = (X1, X2) as presented above.
 
